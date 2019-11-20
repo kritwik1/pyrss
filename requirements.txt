@@ -1,0 +1,6 @@
+Python 3.6.8
+Flask 1.1.1
+Werkzeug 0.16.0
+gunicorn==19.7.1
+whitenoise==3.2.2
+psycopg2
